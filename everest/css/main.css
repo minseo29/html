@@ -36,7 +36,7 @@ video{
   min-width: 100%;
   min-height: 100%;
   width: auto;
-  height: auto;
+  he
 }
 
   .header {
@@ -165,6 +165,7 @@ video{
       padding-top: 100px;
       gap: 20px;
       transition: left 0.6s;
+      
     }
 
     .active {
